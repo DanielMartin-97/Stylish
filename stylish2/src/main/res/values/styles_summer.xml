@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="summer" parent="base">
+        <item name="textColour">@color/summer_text</item>
+        <item name="primaryColour">@color/summer_primary</item>
+        <item name="darkColour">@color/summer_primary_dark</item>
+        <item name="secondaryColour">@color/summer_secondary</item>
+        <item name="backgroundColour">@color/summer_background</item>
+        <item name="darkBackgroundColour">@color/summer_background_dark</item>
+    </style>
+
+</resources>

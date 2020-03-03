@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="dark_autumn" parent="base">
+        <item name="textColour">@color/dark_autumn_text</item>
+        <item name="primaryColour">@color/dark_autumn_primary</item>
+        <item name="darkColour">@color/dark_autumn_primary_dark</item>
+        <item name="secondaryColour">@color/dark_autumn_secondary</item>
+        <item name="backgroundColour">@color/dark_autumn_background</item>
+        <item name="darkBackgroundColour">@color/dark_autumn_background_dark</item>
+
+    </style>
+</resources>

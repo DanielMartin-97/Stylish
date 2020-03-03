@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="winter" parent="base">
+        <item name="textColour">@color/winter_text</item>
+        <item name="primaryColour">@color/winter_primary</item>
+        <item name="darkColour">@color/winter_primary_dark</item>
+        <item name="secondaryColour">@color/winter_secondary</item>
+        <item name="backgroundColour">@color/winter_background</item>
+        <item name="darkBackgroundColour">@color/winter_background_dark</item>
+    </style>
+</resources>

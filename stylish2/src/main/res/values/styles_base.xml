@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="base" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textColor">?textColour</item>
+        <item name="colorPrimary">?primaryColour</item>
+        <item name="colorPrimaryDark">?darkColour</item>
+        <item name="colorAccent">?secondaryColour</item>
+        <item name="android:windowBackground">?backgroundColour</item>
+    </style>
+
+    <style name="text_title" parent="base">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="text_regular" parent="base">
+        <item name="android:textColor">?textColour</item>
+
+        <item name="android:textSize">14sp</item>
+        <item name="android:textAlignment">textStart</item>
+    </style>
+
+    <style name="view" parent="base">
+        <item name="android:background">@color/autumn_background</item>
+    </style>
+
+    <style name="view_dark" parent="base">
+        <item name="android:background">?darkBackgroundColour</item>
+    </style>
+
+    <style name="button" parent="text_title">
+        <item name="android:background">@drawable/shape_button</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:hapticFeedbackEnabled">true</item>
+    </style>
+
+    <style name="seekBar" parent="base">
+        <item name="android:progressTint">?primaryColour</item>
+        <item name="android:progressBackgroundTint">?secondaryColour</item>
+        <item name="android:thumbTint">?textColour</item>
+    </style>
+
+    <style name="progressBar" parent="base">
+        <item name="android:color">?colorAccent</item>
+    </style>
+</resources>

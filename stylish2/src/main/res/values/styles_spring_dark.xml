@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="dark_spring" parent="base">
+        <item name="textColour">@color/dark_spring_text</item>
+        <item name="primaryColour">@color/dark_spring_primary</item>
+        <item name="darkColour">@color/dark_spring_primary_dark</item>
+        <item name="secondaryColour">@color/dark_spring_secondary</item>
+        <item name="backgroundColour">@color/dark_spring_background</item>
+        <item name="darkBackgroundColour">@color/dark_spring_background_dark</item>
+    </style>
+</resources>

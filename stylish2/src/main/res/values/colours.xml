@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="error">#EE0000</color>
+
+    <color name="autumn_primary">#FFDB00</color>
+    <color name="autumn_primary_dark">#C2A700</color>
+    <color name="autumn_background">#FF6F00</color>
+    <color name="autumn_background_dark">#C25400</color>
+    <color name="autumn_secondary">#6CE500</color>
+    <color name="autumn_text">#022D00</color>
+
+    <color name="winter_primary">#4747B5</color>
+    <color name="winter_primary_dark">#2929A4</color>
+    <color name="winter_background">#FFF296</color>
+    <color name="winter_background_dark">#CFC022</color>
+    <color name="winter_secondary">#13A164</color>
+    <color name="winter_text">#1E1E42</color>
+
+    <color name="summer_primary">#FA5A00</color>
+    <color name="summer_primary_dark">#CB4900</color>
+    <color name="summer_background">#0C36F8</color>
+    <color name="summer_background_dark">#0C16D8</color>
+    <color name="summer_secondary">#88E500</color>
+    <color name="summer_text">#0B2900</color>
+
+    <color name="spring_primary">#73F300</color>
+    <color name="spring_primary_dark">#56B600</color>
+    <color name="spring_background">#FA8000</color>
+    <color name="spring_background_dark">#CB6800</color>
+    <color name="spring_secondary">#8507F7</color>
+    <color name="spring_text">#2F0830</color>
+
+</resources>

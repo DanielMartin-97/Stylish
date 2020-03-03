@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_autumn_primary">#4E0D0A</color>
+    <color name="dark_autumn_primary_dark">#860F0F</color>
+    <color name="dark_autumn_background">#6D6041</color>
+    <color name="dark_autumn_background_dark">#383122</color>
+    <color name="dark_autumn_secondary">#6B3200</color>
+    <color name="dark_autumn_text">#FA562A</color>
+
+    <color name="dark_winter_primary">#002936</color>
+    <color name="dark_winter_primary_dark">#004A7C</color>
+    <color name="dark_winter_background">#5B5C5B</color>
+    <color name="dark_winter_background_dark">#464646</color>
+    <color name="dark_winter_secondary">#000000</color>
+    <color name="dark_winter_text">#FFFFFF</color>
+
+    <color name="dark_summer_primary">#3C0002</color>
+    <color name="dark_summer_primary_dark">#7C0003</color>
+    <color name="dark_summer_background">#355058</color>
+    <color name="dark_summer_background_dark">#24363C</color>
+    <color name="dark_summer_secondary">#463105</color>
+    <color name="dark_summer_text">#4CA3FD</color>
+
+    <color name="dark_spring_primary">#253623</color>
+    <color name="dark_spring_primary_dark">#42613E</color>
+    <color name="dark_spring_background">#574A46</color>
+    <color name="dark_spring_background_dark">#4D413D</color>
+    <color name="dark_spring_secondary">#063B46</color>
+    <color name="dark_spring_text">#90F7D6</color>
+</resources>
